@@ -1,8 +1,7 @@
 import java.util.*;
 public class Hotel_Management_System{
     public static void main(String args[]){
-        Scanner in = new Scanner(System.in);
-        System.out.println("This Program is Created By Priyanshu Bhattacharjee");
+        Scanner in = new Scanner(System.in)
         int vstr,tvstr=0,nvstr,tnvstr=0,vfd,tvfd=0,nvfd,tnvfd=0,fd,tfd=0,amt=0,tamt=0,totalamt=0,d,totald=0,damt=0,ch;
         double vat = 0;
         String str="",ans,choice="Y";
